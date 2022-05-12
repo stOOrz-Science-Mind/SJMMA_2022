@@ -2,9 +2,11 @@
 
 Control Number: IMMC22188613
 
-Title: 
+Problem Chosen: A
 
-Results: 
+Title: Campus Tours
+
+Results: Not Judged
 
 
 ## I. Above all are placed below the official websites and relavent rules:
